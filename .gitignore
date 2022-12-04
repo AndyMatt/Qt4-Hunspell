@@ -1,0 +1,6 @@
+*.ncb
+*.*.user
+*.suo
+/QTSpellCheck/GeneratedFiles/
+/QTSpellCheck/x64/
+/x64/
